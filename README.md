@@ -1,6 +1,6 @@
 # Introducción a Git y GitHub
 
-Tutorial desarrollado para Programá tu Futuro.
+Introducción al funcionamiento y uso de git y github.
 <br>
 Verlo en https://juancuiule.github.io/intro-a-git
 
